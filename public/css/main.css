@@ -1,0 +1,159 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+}
+
+body, input {
+    font-family: 'proxima-nova', 'Spoqa Han Sans', sans-serif !important;
+}
+
+input {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+}
+
+.s-header {
+    color: rgb(18, 18, 18);
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.s-header h1 {
+    font-size: 20px;
+}
+
+.s-header a {
+    color: rgb(18, 18, 18);
+    text-decoration: none;
+}
+
+.s-header a:hover {
+    color: rgb(18, 18, 18);
+    text-decoration: none;
+}
+
+.s-url {
+    padding-top: 50px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.s-url h1 {
+    color: rgb(18, 18, 18);
+    font-weight: 900;
+}
+
+.s-url p {
+    color: rgb(101, 101, 101);
+    padding-bottom: 20px;
+}
+
+.s-url-input {
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid #bbbbbb;
+    color: rgb(101, 101, 101);
+    width: 100%;
+    border-radius: 5px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.s-url-input::placeholder{
+    color: rgb(101, 101, 101);
+}
+
+.s-url-input:focus {
+    outline: none;
+    border: 1px solid rgb(153, 139, 255);
+}
+
+.s-url a {
+    font-size: 12px;
+    color: #92a8d1;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.s-url a:hover {
+    color: #92a8d1;
+    text-decoration: underline;
+}
+
+.s-url-alert {
+    padding-top: 30px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.s-url-alert h1 {
+    color: rgb(18, 18, 18);
+    font-weight: 900;
+}
+
+.s-url-alert p {
+    color: rgb(101, 101, 101);
+    padding-bottom: 20px;
+}
+
+.s-url-alert a {
+    color: #92a8d1;
+    text-decoration: none;
+}
+
+.s-url-alert a:hover {
+    color: #92a8d1;
+    text-decoration: underline;
+}
+
+.s-url-alert i {
+    padding-left: 10px;
+}
+
+.s-term {
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 50px;
+    letter-spacing: 0em;
+}
+
+.s-term h1 {
+    font-weight: 900;
+    font-size: 1.5em;
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+.s-term h2 {
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+.s-term p {
+    font-size: 15px;
+}
+
+.s-footer {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.s-footer p {
+    font-size: 12px;
+    color: rgb(101, 101, 101);
+}
+
+.s-footer a {
+    color: rgb(101, 101, 101);
+    text-decoration: none;
+}
+
+.s-footer a:hover {
+    color: rgb(101, 101, 101);
+    text-decoration: underline;
+}
