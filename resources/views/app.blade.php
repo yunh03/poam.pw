@@ -2,13 +2,13 @@
 <html lang="ko" translate="no">
     <head>
         <meta charset="UTF-8">
-        <title>SUT.KR - 단축 URL</title>
+        <title>POAM.PW - 단축 URL</title>
         <meta name="description" content="너무나도 긴 주소를 짧은 주소로 단번에 줄여보세요.">
         <meta property="og:type" content="website"> 
-        <meta property="og:title" content="SUT.KR - 단축 URL">
+        <meta property="og:title" content="POAM.PW - 단축 URL">
         <meta property="og:description" content="너무나도 긴 주소를 짧은 주소로 단번에 줄여보세요.">
         <meta property="og:image" content="background.jpg">
-        <meta property="og:url" content="https://sut.kr">
+        <meta property="og:url" content="https://poam.pw">
         <link rel="shortcut icon" href="{{ asset('favicon.png') }}">
         <link href="{{ asset('css/main.css') }}" rel="stylesheet">
         <link href="{{ asset('css/grid.css') }}" rel="stylesheet">
@@ -20,14 +20,14 @@
     <body>
         <section class="s-header">
             <div class="container">
-                <h1><a href="/">SUT.KR</a></h1>
+                <h1><a href="/">POAM.PW</a></h1>
             </div>
         </section>
         @yield('content')
         <section class="s-footer">
             <div class="container">
                 <p><a href="/terms">이용약관</a> | <a href="mailto:yunsol267@gmail.com">이메일 문의</a></p>
-                <p>SUT.KR 2021 모든 권리 보유.
+                <p>POAM.PW 2021 모든 권리 보유.
             </div>
         </section>
     </body>
