@@ -22,7 +22,7 @@
             @if (Session::has('success'))
                 <h1>👍 생성을 완료했어요.</h1>
                 <p>아래 링크를 눌러 복사하고, 주소창에 붙여넣거나 공유하세요.
-                <p><i class="far fa-check-circle"></i> <a href="javascript:copyToClipboard('#qops-url-copy');"><span id="qops-url-copy">https://sut.kr/{{ Session::get('success') }}</span><i class="fas fa-share-square"></i></p></a>
+                <p><i class="far fa-check-circle"></i> <a href="javascript:copyToClipboard('#qops-url-copy');"><span id="qops-url-copy">https://poam.pw/{{ Session::get('success') }}</span><i class="fas fa-share-square"></i></p></a>
             @endif
         </div>
     </section>
