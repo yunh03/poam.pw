@@ -14,6 +14,8 @@
         <link href="{{ asset('css/grid.css') }}" rel="stylesheet">
         <link rel="stylesheet" href="https://use.typekit.net/ckj4ckq.css">
         <script src="https://kit.fontawesome.com/f71af7eb4e.js" crossorigin="anonymous"></script>
+        <meta name="naver-site-verification" content="d6a284806cfb555a2b86288ef56ab8ef3027bea2" />
+        <meta name="google-site-verification" content="x6XFMcMDMNQhVl0qwHcTY_9kvkes55AWRvanXLDdjsA" />
         <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'>
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     </head>
