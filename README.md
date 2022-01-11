@@ -11,7 +11,7 @@
 
 ## 라이선스
 
-이 프로젝트는 MIT 라이선스의 영향을 받습니다. [여기](https://github.com/yunh03/Linkel/blob/master/LICENSE)를 참조하여 확인하세요.
+이 프로젝트는 MIT 라이선스의 영향을 받습니다. [여기](https://github.com/yunh03/poam.pw/blob/main/LICENSE)를 참조하여 확인하세요.
 
 ## 데모 페이지
 
